@@ -1,0 +1,11 @@
+class,cap-shape,cap-surface,cap-color
+p,x,s,n
+e,x,s,y
+e,b,s,w
+p,x,y,w
+e,x,s,g
+p,x,y,y
+e,b,s,w
+p,b,y,w
+p,x,y,w
+_,b,s,y
